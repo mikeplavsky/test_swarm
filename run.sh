@@ -5,5 +5,4 @@ docker run -d \
     --name=sw \
     -v $(pwd):/sw  \
     -p 80:5000 \
-    mikeplavsky/swarm:0.1 \
-    python /sw/run.py
+    mikeplavsky/swarm:0.1
