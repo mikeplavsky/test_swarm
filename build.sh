@@ -1,1 +1,1 @@
-docker build -t mikeplavsky/swarm:0.3 .
+docker build -t mikeplavsky/swarm:0.4 .
